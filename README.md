@@ -2,7 +2,7 @@
 
 A brief description of your project. Explain its main functionality and purpose.
 
-![Project Preview](preview-image.png)
+![Project Preview](https://raw.githubusercontent.com/zen-Hikari/Landing-Page_Tamplate/refs/heads/main/public/preview.png)
 
 ## ✨ Features
 - ✅ Feature 1
