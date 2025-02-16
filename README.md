@@ -5,9 +5,9 @@ A brief description of your project. Explain its main functionality and purpose.
 ![Project Preview](https://raw.githubusercontent.com/zen-Hikari/Landing-Page_Tamplate/refs/heads/main/public/preview.png)
 
 ## ✨ Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+- ✅ **Smooth Scrolling & Parallax Effects** – The website provides a smooth scrolling experience with elegant parallax animations powered by Luxy.js.
+- ✅ **Responsive & Modern UI** – Built with Tailwind CSS, the landing page adapts seamlessly to different screen sizes and devices.
+- ✅ **Interactive Components** – Engaging sections with hover effects, animations, and call-to-action buttons for better user interaction.
 
 ## 🛠 Installation
 1. Clone the repository:
