@@ -2,7 +2,7 @@
 import './Global.css'
 import Spotify from './assets/spotify.png'
 import Slack from './assets/slack.png'
-import Dropbox from './assets/Drop-box.png'
+import Dropbox from './assets/drop-box.png'
 import Zoom from './assets/zoom.png'
 function Brand() {
 
